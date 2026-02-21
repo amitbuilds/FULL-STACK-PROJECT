@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "A backend with full information",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/amitbuilds/protfolio#readme",
+  "bugs": {
+    "url": "https://github.com/amitbuilds/protfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitbuilds/protfolio.git"
+  },
+  "license": "ISC",
+  "author": "Amit Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
